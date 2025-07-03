@@ -1,5 +1,4 @@
-# Super simple script to extract pages from a PDF file
-# Pending: Handling input errors
+# Script to extract pages from a PDF file
 
 import PyPDF2
 
